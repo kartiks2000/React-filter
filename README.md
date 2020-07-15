@@ -9,5 +9,7 @@ it uses filter and search functionality
 It actually uses real time searching algo which keeps searching on each of your key press.
 
 
+Heigher Order Components (HOC) has also been used.
 
-http://localhost:3000/
+
+https://reactfilters.netlify.app/
